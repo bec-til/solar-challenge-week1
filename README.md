@@ -9,4 +9,4 @@
 ## Data
 Solar radiation measurements including:
 - GHI, DNI, DHI irradiance values
-- Weather data (temperature, humidity, etc.)
+- Weather data (temperature, humidity, etc.)" "   # Add a small change
